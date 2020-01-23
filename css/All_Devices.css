@@ -1,0 +1,55 @@
+@media only screen and (max-width: 320px) {
+
+}
+
+@media screen and (max-width: 375px) and (min-width: 321px) {
+
+}
+
+@media screen and (max-width: 415px) and (min-width: 376px) {
+
+}
+
+@media screen and (max-width: 425px) and (min-width: 416px) {
+
+}
+
+@media screen and (max-width: 900px) and (min-width:768px){
+.page-h1 h1 {
+    padding: 25px 0 10px 0;
+    font-size: medium;
+}
+.text {
+    background-color: #E53935;
+    color: white;
+    padding: 10px 12px;
+    text-transform: capitalize !important;
+    font-size: 11px;
+}
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 500px) {
+.page-h1 h1 {
+    padding: 25px 0 10px 0;
+    font-size: medium;
+}
+.text {
+    background-color: #E53935;
+    color: white;
+    padding: 10px 12px;
+    text-transform: capitalize !important;
+    font-size: 11px;
+}
+}
+
+
+
+
+
+
+
+
